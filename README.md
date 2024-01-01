@@ -1,1 +1,1 @@
-# JavascriptProject1
+# Learn Javascript
