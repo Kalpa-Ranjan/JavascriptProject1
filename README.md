@@ -2,7 +2,7 @@
 # Learn Javascript
 
 <!-- Inline Code Block -->
-<p> This Repository is based on basic javascript concept and its implementation. </p>
+<p> This Repository is based on basic javascript concept and its implementation.  </p>
 
 <!-- Strong -->
 **Author: Kalpa Behera**
