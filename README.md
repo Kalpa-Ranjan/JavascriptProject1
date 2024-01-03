@@ -61,3 +61,4 @@ If you found a issue or would like to submit an improvement to this project, Ple
 If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://www.buymeacoffee.com/DRKRB "buymeacoffee")
 
 <!-- Images -->
+![QR code](https://github.com/Kalpa-Ranjan/LearnJavascript/blob/main/QR%20buymeacoffee.png)
