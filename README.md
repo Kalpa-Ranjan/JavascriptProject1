@@ -37,9 +37,9 @@
 
 <!-- Github Markdown -->
 <!-- Code Blocks -->
-'''bash
-npm install
-'''
+```bash
+    npm install
+```
 
 
 <!-- Tables -->
