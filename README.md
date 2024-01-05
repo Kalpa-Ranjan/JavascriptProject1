@@ -62,3 +62,6 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 
 <!-- Images -->
 ![QR code](https://github.com/Kalpa-Ranjan/LearnJavascript/blob/main/QR%20buymeacoffee.png)
+
+
+<img src="https://github.com/Kalpa-Ranjan/LearnJavascript/blob/main/QR%20buymeacoffee.png" width="200" height="200" />
