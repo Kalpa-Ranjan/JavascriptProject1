@@ -88,26 +88,69 @@ console.log(author);
 #### Data types
 ---
 ```mermaid
-graph TD;
+graph LR;
     A(Data types)
     B(Primitive Data types)
     C(Non primitive Data types)
+    D(null)
+    E(Integer)
+    F(Boolean)
+    G(Big Integer)
+    H(String)
+    I(Symbol)
+    J(undefined)
+    K(Object)
 
     A --> B
     A --> C
 
+    B --> D
+    B --> E
+    B --> F
+    B --> G
+    B --> H
+    B --> I
+    B --> J
+    C --> K
+
 ```
 
+```js
+let a = null;
+let b = 345;
+let c = true;
+let d = BigInt("345") + BigInt("7");
+let e = "Sambhu";
+let f = Symbol("Har Har Mahadev");
+let g = undefined;
+
+console.log(a, b, c, d, e, f);
+
+console.log(typeof(a));
+console.log(typeof(b));
+console.log(typeof(c));
+console.log(typeof(d));
+console.log(typeof(e));
+console.log(typeof(f));
+console.log(typeof(g));
+```
+> Output
+> * null 345 true 352n Sambhu Symbol(Har Har Mahadev)
+> * object
+> * number
+> * boolean
+> * bigint
+> * string
+> * symbol
+> * undefined
+---
 <!-- End of data types-->
 <!-- Links -->
 
 [Youtube](https://www.youtube.com "Youtube")
 
-<!-- Github Markdown -->
-<!-- Code Blocks -->
-```bash
-    npm install
-```
+
+
 
 
 <!-- Tables -->
