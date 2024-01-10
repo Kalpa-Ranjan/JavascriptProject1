@@ -28,9 +28,10 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 <!-- Blockquote -->
 
 > Contents
+> - [Topics](#topics)
 > - [Find a bug?](#find-a-bug)
 
-> Topics: 
+### Topics: 
 
 <!-- OL-->
 1. String
@@ -40,21 +41,64 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
     4. blink()
     
 
+
 1. DOM
 1. Arithmetic Operation
     * Addition
     * Subtraction
 
 <!-- UL -->
-* 
 
-<!-- Mermaid -->
+<!-- Start of Variables -->
+##### Variables
+---
+
 ```mermaid
-flowchart LR;
-    Addition --> Subtraction --> Multiplication --> Division
+flowchart TD;
+    A(Variables)
+    B(let)
+    C(var)
+    D(const)
+    
+    A --> B 
+    A --> C 
+    A --> D
 ```
 
+```js
+let a = 67
+console.log(a);
 
+a = "Mahadev"
+console.log(a);
+
+const author = "Shiva"
+console.log(author);
+```
+> Outputs:  
+> * 67
+> * Mahadev
+> * Shiva
+
+---
+
+<!-- End of Variables -->
+
+<!-- Start of data types-->
+#### Data types
+---
+```mermaid
+graph TD;
+    A(Data types)
+    B(Primitive Data types)
+    C(Non primitive Data types)
+
+    A --> B
+    A --> C
+
+```
+
+<!-- End of data types-->
 <!-- Links -->
 
 [Youtube](https://www.youtube.com "Youtube")
