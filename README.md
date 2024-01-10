@@ -99,7 +99,7 @@ graph LR;
     H(String)
     I(Symbol)
     J(undefined)
-    K(Object)
+    K(Objects)
 
     A --> B
     A --> C
@@ -114,7 +114,7 @@ graph LR;
     C --> K
 
 ```
-
+##### Primitive Data types
 ```js
 let a = null;
 let b = 345;
@@ -143,6 +143,22 @@ console.log(typeof(g));
 > * string
 > * symbol
 > * undefined
+
+##### Non Primitive Data types
+```js
+const item = {
+    "Nataraj" : true,
+    "Nilakantha" : false,
+    "Adiyogi" : 67,
+    "Bhairav" : undefined
+}
+
+console.log(item.Adiyogi, item.Bhairav, item.Nataraj);
+```
+> Output
+> * 67 
+> * undefined 
+> * true
 ---
 <!-- End of data types-->
 <!-- Links -->
