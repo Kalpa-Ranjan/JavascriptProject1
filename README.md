@@ -47,8 +47,8 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
     * Addition
     * Subtraction
 
-<!-- UL -->
 
+---
 <!-- Start of Variables -->
 ##### Variables
 ---
@@ -115,6 +115,7 @@ graph LR;
 
 ```
 ##### Primitive Data types
+
 ```js
 let a = null;
 let b = 345;
@@ -145,6 +146,7 @@ console.log(typeof(g));
 > * undefined
 
 ##### Non Primitive Data types
+
 ```js
 const item = {
     "Nataraj" : true,
@@ -161,14 +163,6 @@ console.log(item.Adiyogi, item.Bhairav, item.Nataraj);
 > * true
 ---
 <!-- End of data types-->
-<!-- Links -->
-
-[Youtube](https://www.youtube.com "Youtube")
-
-
-
-
-
 <!-- Tables -->
 | Name | E-mail |
 | :---  |:---|
