@@ -247,36 +247,52 @@ let Op_b = 3;
 ```js
 console.log("Addition of two numbers is : ",Op_a + Op_b);
 ```
+> Output
+> * Addition of two numbers is :  46
 ##### Subtraction(-)
 ```js
 console.log("Subtraction of two numbers is : ",Op_a - Op_b);
 ```
+> Output
+> * Subtraction of two numbers is :  40
 ##### Multiplication(*)
 ```js
 console.log("Multiplication of two numbers is : ",Op_a * Op_b);
 ```
+> Output
+> * Multiplication of two numbers is :  129
 ##### Division(/)
 ```js
 console.log("Division of two numbers is : ",Op_a / Op_b);
 ```
+> Output
+> * Division of two numbers is :  14.333333333333334
 ##### Exponential(**)
 ```js
 console.log("Exponential of two numbers is : ",Op_a ** Op_b);
 ```
+> Output
+> * Exponential of two numbers is :  79507
 ##### Modulo(%)
 ```js
 console.log("Mudulo of two numbers is : ",Op_a % Op_b);
 ```
+> Output
+> * Mudulo of two numbers is :  1
 ##### Incremental(++)
 ```js
 Op_a++;
 console.log("Incremental of Op_a ", Op_a);
 ```
+> Output
+> * Incremental of Op_a  44
 ##### Decremental(--)
 ```js
 Op_a--;
 console.log("Decremental of Op_a ", Op_a);
 ```
+> Output
+> * Decremental of Op_a  43
 #### Assignment Operator
 ##### Equal(=)
 ```js
