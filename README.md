@@ -313,10 +313,11 @@ console.log(AOa1);
 AOa1 **= 2;
 console.log(AOa1);
 ```
-
+#### Comparision Operator
+```js
 let Comp1 = 30;
 let Comp2 = 40;
-
+```
 ##### Equal to(==)
 ```js
 console.log("Return the value of Comp1 == Comp2: ", Comp1 == Comp2);
