@@ -421,7 +421,7 @@ gantt
     section Variables
         const    :a1, 03-01-2024, 2d
         let      :a2, after a1, 2d
-        var      : after a2
+        var      : after a2, 2d
     section Primitive Datatypes
-    
+
 ```
