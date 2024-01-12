@@ -413,4 +413,15 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 <!-- Images -->
 ![QR code](https://github.com/Kalpa-Ranjan/LearnJavascript/blob/main/QR%20buymeacoffee.png)
 
-
+```mermaid
+gantt
+    title Learn Javascript
+    dateFormat DD-MM-YYYY
+    axisFormat %d
+    section Variables
+        const    :a1, 03-01-2024, 2d
+        let      :a2, after a1, 2d
+        var      : after a2
+    section Primitive Datatypes
+    
+```
