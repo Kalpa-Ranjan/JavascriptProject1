@@ -388,7 +388,20 @@ console.log(!true);
 
 ```
 <!-- End of Operators -->
+<!-- Start of DOM(Document Object Model)-->
+##### DOM(Document Object Model)
+```mermaid
+gantt 
+    title: DOM(Document Object Model)
+    dateFormat: DD/MM/YYYY
+    section: DOM(Document Object Model)
+        Selection of an Element: a1, 15/01/2024, 1d
+        Changing HTML: a2, after a1, 1d
+        Changing CSS: a3, after a2, 1d
+        Event Listener: a4, after a3, 1d
+```
 
+<!-- End of DOM(Document Object Model)-->
 <!-- Tables -->
 | Name | E-mail |
 | :---  |:---|
@@ -422,6 +435,15 @@ gantt
         const    :a1, 03-01-2024, 2d
         let      :a2, after a1, 2d
         var      : after a2, 2d
-    section Primitive Datatypes
+        Primitive Datatypes :
+        Operators   :
+        Expressions :
+        For loop    :
+        while loop  :
+        Functions   :
+        Methods     :
+        String      :
+        Array       :
+
 
 ```
