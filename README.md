@@ -410,6 +410,16 @@ graph TD;
 ##### 3. Changing CSS
 ##### 4. Event Listener
 
+```mermaid
+gantt 
+    title DOM Document Object Model
+    dateFormat DD-MM-YYYY
+    section DOM(Document Object Model)
+        Selection of an Element: a1, 15-01-2024, 1d
+        Changing HTML: a2, after a1, 1d
+        Changing CSS: a3, after a2, 1d
+        Event Listener: a4, after a3, 1d
+```
 
 <!-- End of DOM(Document Object Model)-->
 <!-- Tables -->
