@@ -19,7 +19,7 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 
 [<img src="https://github.com/Kalpa-Ranjan/LearnJavascript/blob/main/QR%20buymeacoffee.png" width="200" height="200" />](https://www.buymeacoffee.com/drkrb)
 
-[<img src="https://github.com/Kalpa-Ranjan/LearnJavascript/blob/main/QRBharatPe.png" />]
+[<img src="https://github.com/Kalpa-Ranjan/LearnJavascript/blob/main/QRBharatPe.png" width="200" height="300" />]
 
 ---
 * Learn Basic Javascript
