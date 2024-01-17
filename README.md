@@ -412,13 +412,55 @@ graph TD;
 
 ```mermaid
 gantt 
-    title DOM Document Object Model
-    dateFormat DD-MM-YYYY
+    title DOM (Document Object Model)
+    dateFormat X
+    axisFormat %M
     section DOM(Document Object Model)
-        Selection of an Element: a1, 15-01-2024, 1d
-        Changing HTML: a2, after a1, 1d
-        Changing CSS: a3, after a2, 1d
-        Event Listener: a4, after a3, 1d
+        Selection of an Element: 10, 15
+        Changing HTML: 10, 20
+        Changing CSS: 20, 10
+        Event Listener: 30, 40
+```
+
+
+```mermaid
+graph TD;
+    A[Window]
+    B[Document]
+    C[HTML]
+    D[Head]
+    E[Body]
+    F[Title]
+    G[Meta]
+    H[Text Node]
+    I[Attribute]
+    J[Div]
+    K[Class]
+    L[Attribute]
+    M[H1]
+    N[p]
+    O[Attribute]
+    P[Text Node]
+    Q[Text Mode]
+
+
+    A --> B
+    B --> C
+    C --> D
+    C --> E
+    D --> F
+    D --> G
+    F --> H
+    G --> I
+    E --> J
+    J --> M
+    J --> N
+    J --> L
+    M --> O
+    M --> P
+    N --> Q
+
+
 ```
 
 <!-- End of DOM(Document Object Model)-->
