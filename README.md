@@ -435,7 +435,7 @@ graph TD;
     H[Text Node]
     I[Attribute]
     J[Div]
-    K[Class]
+    
     L[Attribute]
     M[H1]
     N[p]
