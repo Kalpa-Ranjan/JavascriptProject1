@@ -16,8 +16,7 @@
 
 If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://www.buymeacoffee.com/DRKRB "buymeacoffee")
 
-
-[<img src="https://github.com/Kalpa-Ranjan/LearnJavascript/blob/main/QR%20buymeacoffee.png" width="200" height="200" />](https://www.buymeacoffee.com/drkrb)
+                    OR
 
 [<img src="https://github.com/Kalpa-Ranjan/LearnJavascript/blob/main/QR-BharatPe.png" width="300" height="200" />]
 
