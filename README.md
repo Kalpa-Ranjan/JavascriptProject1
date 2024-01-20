@@ -390,8 +390,9 @@ console.log(!true);
 ```
 <!-- End of Operators -->
 <!-- Start of DOM(Document Object Model)-->
+---
 ##### DOM(Document Object Model)
-
+---
 
 ```mermaid
 graph TD;
