@@ -43,11 +43,11 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
     
 
 
-1. DOM
-1. Arithmetic Operation
+2. DOM
+3. Arithmetic Operation
     * Addition
     * Subtraction
-
+4. Objects
 
 ---
 <!-- Start of Variables -->
