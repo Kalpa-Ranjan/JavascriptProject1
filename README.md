@@ -30,9 +30,15 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 
 > Contents
 1. [Topics](#topics)
-2. [Find a bug?](#find-a-bug)
+2. [Variables](#variables)
+3. [Data Types](#data-types)
+   1. [Primitive Data Type](#primitive-data-types) 
+   2. [Non Primitive Data Type](#non-primitive-data-types)
+   3. [Operator](#operator)
+      1. 
+4. [Find a bug?](#find-a-bug)
 
-### Topics: 
+## Topics: 
 
 <!-- OL-->
 1. String
@@ -53,7 +59,7 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 
 ---
 <!-- Start of Variables -->
-##### Variables
+## Variables
 ---
 
 ```mermaid
@@ -88,7 +94,7 @@ console.log(author);
 <!-- End of Variables -->
 
 <!-- Start of data types-->
-#### Data types
+## Data types
 ---
 ```mermaid
 graph LR;
@@ -117,7 +123,7 @@ graph LR;
     C --> K
 
 ```
-##### Primitive Data types
+### Primitive Data types
 
 ```js
 let a = null;
@@ -148,7 +154,7 @@ console.log(typeof(g));
 > * symbol
 > * undefined
 
-##### Non Primitive Data types
+### Non Primitive Data types
 
 ```js
 const item = {
