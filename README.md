@@ -48,6 +48,8 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
     * Addition
     * Subtraction
 4. Objects
+5. Events
+6. 
 
 ---
 <!-- Start of Variables -->
