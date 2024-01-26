@@ -29,8 +29,8 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 <!-- Blockquote -->
 
 > Contents
-> - [Topics](#topics)
-> - [Find a bug?](#find-a-bug)
+1. [Topics](#topics)
+2. [Find a bug?](#find-a-bug)
 
 ### Topics: 
 
