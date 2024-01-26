@@ -34,9 +34,10 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 3. [Data Types](#data-types)
    1. [Primitive Data Type](#primitive-data-types) 
    2. [Non Primitive Data Type](#non-primitive-data-types)
-   3. [Operator](#operator)
-      1. 
-4. [Find a bug?](#find-a-bug)
+4. [Operator](#operator)
+   1. [Arithmetic Operator](#arithmetic-operator)
+      1. [Addition](#addition)
+5. [Find a bug?](#find-a-bug)
 
 ## Topics: 
 
