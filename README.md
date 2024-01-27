@@ -441,11 +441,11 @@ graph TD;
     A --> E
 ```
 ### 1. Selecting Element using DOM
-#### getElementsById()
-#### getElementsByName()
-#### getElementsByTagName()
-#### getElementsByClassName()
-#### querySelector and querySelectorAll()
+#### i. getElementsById()
+#### ii. getElementsByName()
+#### iii. getElementsByTagName()
+#### iv. getElementsByClassName()
+#### v. querySelector and querySelectorAll()
 ### 2. Traversing Elements
 #### Selecting Parent Element
 #### Selecting child element
