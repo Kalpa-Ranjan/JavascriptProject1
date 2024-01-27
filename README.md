@@ -23,21 +23,18 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 ---
 * Learn Basic Javascript
 * Arithmetic Operation Javascript
+---
+---
 
-
-
-<!-- Blockquote -->
-
-> Contents
-1. [Topics](#topics)
-2. [Variables](#variables)
-3. [Data Types](#data-types)
+ > **Contents**
+1. [Variables](#variables)
+2. [Data Types](#data-types)
    1. [Primitive Data Type](#primitive-data-types) 
    2. [Non Primitive Data Type](#non-primitive-data-types)
-4. [Operator](#operator)
+3. [Operator](#operator)
    1. [Arithmetic Operator](#arithmetic-operator)
       1. [Addition](#addition)
-5. [DOM(Document Object Model)](#domdocument-object-model)
+4. [DOM(Document Object Model)](#domdocument-object-model)
    1. [Selecting Element using DOM](#1-selecting-element-using-dom)
       1. [getelementsbyid()](#getelementsbyid)
       2. [getElementsByName](#getElementsByName)
@@ -83,24 +80,6 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 #### Different types of Events -->
 1. [Find a bug?](#find-a-bug)
 
-## Topics: 
-
-<!-- OL-->
-1. String
-    1. anchor()
-    2. at()
-    3. big()
-    4. blink()
-    
-
-
-
-2. Arithmetic Operation
-    * Addition
-    * Subtraction
-3. Objects
-4. Events
-5. 
 
 ---
 <!-- Start of Variables -->
@@ -293,14 +272,12 @@ graph LR;
     
 ```
 #### Arithmetic Operator
-```js
-let Op_a = 43;
-let Op_b = 3;
-```
+
+` let Op_a = 43;
+  let Op_b = 3; `
+
 ##### Addition(+)
-```js
-console.log("Addition of two numbers is : ",Op_a + Op_b);
-```
+` console.log("Addition of two numbers is : ",Op_a + Op_b); `
 > Output
 > * Addition of two numbers is :  46
 ##### Subtraction(-)
