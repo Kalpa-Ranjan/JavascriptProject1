@@ -83,7 +83,7 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 ---
 <!-- Start of Variables -->
 ## Variables
----
+
 
 ```mermaid
 flowchart TD;
@@ -118,7 +118,7 @@ console.log(author);
 
 <!-- Start of data types-->
 ## Data types
----
+
 ```mermaid
 graph LR;
     A(Data types)
@@ -198,7 +198,7 @@ console.log(item.Adiyogi, item.Bhairav, item.Nataraj);
 
 <!-- Start of Operators -->
 ### Operator
----
+
 ```mermaid
 graph LR;
     AA[Arithmetic Operator]
@@ -425,7 +425,7 @@ console.log(!true);
 <!-- Start of DOM(Document Object Model)-->
 ---
 ## DOM(Document Object Model)
----
+
 
 ```mermaid
 graph TD;
