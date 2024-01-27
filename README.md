@@ -37,7 +37,51 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 4. [Operator](#operator)
    1. [Arithmetic Operator](#arithmetic-operator)
       1. [Addition](#addition)
-5. [Find a bug?](#find-a-bug)
+5. [DOM(Document Object Model)](#domdocument-object-model)
+   1. [Selecting Element using DOM](#1-selecting-element-using-dom)
+      1. [getelementsbyid()](#getelementsbyid)
+      2. [getElementsByName](#getElementsByName)
+<!--
+#### getElementsByTagName()
+#### getElementsByClassName()
+#### querySelector and querySelectorAll()
+### 2. Traversing Elements
+#### Selecting Parent Element
+#### Selecting child element
+#### Selecting sibling element
+### 3. Manupulating HTML elements
+#### createElement()
+#### appendChild()
+#### textContent()
+#### innerHTML()
+#### after()
+#### append()
+#### prepend()
+#### insertAdjacentHTML()
+#### replaceChild()
+#### cloneNode()
+#### removeChild()
+#### insertBefore()
+### 4. Attribute methods
+#### getAttribute()
+#### setAttribute()
+#### hasAttribute()
+#### removeAttribute()
+### 5. Manipulating Element's styles
+#### style property
+#### cssText
+#### getComputedStyle()
+#### className property
+#### classList property
+### 6. Events
+#### Event Bubbling and & Event Capturing
+#### Event Handler in HTMLAttributes
+#### DOM Level 0 event handlers
+#### addEventListener()
+#### removeEventListener()
+#### event Objects
+#### Different types of Events -->
+1. [Find a bug?](#find-a-bug)
 
 ## Topics: 
 
@@ -50,13 +94,13 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
     
 
 
-2. DOM
-3. Arithmetic Operation
+
+2. Arithmetic Operation
     * Addition
     * Subtraction
-4. Objects
-5. Events
-6. 
+3. Objects
+4. Events
+5. 
 
 ---
 <!-- Start of Variables -->
@@ -400,7 +444,7 @@ console.log(!true);
 <!-- End of Operators -->
 <!-- Start of DOM(Document Object Model)-->
 ---
-##### DOM(Document Object Model)
+## DOM(Document Object Model)
 ---
 
 ```mermaid
@@ -416,10 +460,48 @@ graph TD;
     A --> D
     A --> E
 ```
-##### 1. Selection of an Element 
-##### 2. Changing HTML
-##### 3. Changing CSS
-##### 4. Event Listener
+### 1. Selecting Element using DOM
+#### getElementsById()
+#### getElementsByName()
+#### getElementsByTagName()
+#### getElementsByClassName()
+#### querySelector and querySelectorAll()
+### 2. Traversing Elements
+#### Selecting Parent Element
+#### Selecting child element
+#### Selecting sibling element
+### 3. Manupulating HTML elements
+#### createElement()
+#### appendChild()
+#### textContent()
+#### innerHTML()
+#### after()
+#### append()
+#### prepend()
+#### insertAdjacentHTML()
+#### replaceChild()
+#### cloneNode()
+#### removeChild()
+#### insertBefore()
+### 4. Attribute methods
+#### getAttribute()
+#### setAttribute()
+#### hasAttribute()
+#### removeAttribute()
+### 5. Manipulating Element's styles
+#### style property
+#### cssText
+#### getComputedStyle()
+#### className property
+#### classList property
+### 6. Events
+#### Event Bubbling and & Event Capturing
+#### Event Handler in HTMLAttributes
+#### DOM Level 0 event handlers
+#### addEventListener()
+#### removeEventListener()
+#### event Objects
+#### Different types of Events
 
 ```mermaid
 gantt 
