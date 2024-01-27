@@ -272,11 +272,15 @@ graph LR;
 ```
 #### Arithmetic Operator
 
-` let Op_a = 43;
-  let Op_b = 3; `
+```js 
+  let Op_a = 43;
+  let Op_b = 3; 
+```
 
 ##### Addition(+)
-` console.log("Addition of two numbers is : ",Op_a + Op_b); `
+```js 
+console.log("Addition of two numbers is : ",Op_a + Op_b); 
+```
 > Output
 > * Addition of two numbers is :  46
 ##### Subtraction(-)
