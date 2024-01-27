@@ -24,7 +24,6 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 * Learn Basic Javascript
 * Arithmetic Operation Javascript
 ---
----
 
  > **Contents**
 1. [Variables](#variables)
