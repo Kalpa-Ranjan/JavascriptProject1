@@ -19,10 +19,24 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
                     OR
 
 [<img src="https://github.com/Kalpa-Ranjan/LearnJavascript/blob/main/QR-BharatPe.png" width="300" height="200" />]
-
 ---
 * Learn Basic Javascript
 * Arithmetic Operation Javascript
+---
+**Java script Roadmap**
+---
+```mermaid
+graph LR;
+    A[Variables]
+    B[Data Types]
+    C[Operators]
+    D[DOM]
+
+    A --> B
+    B --> C
+    C --> D
+```
+
 ---
 
  > **Contents**
@@ -30,7 +44,7 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 2. [Data Types](#data-types)
    1. [Primitive Data Type](#primitive-data-types) 
    2. [Non Primitive Data Type](#non-primitive-data-types)
-3. [Operator](#operator)
+3. [Operators](#operator)
    1. [Arithmetic Operator](#arithmetic-operator)
       1. [Addition](#addition)
 4. [DOM(Document Object Model)](#domdocument-object-model)
