@@ -8,7 +8,7 @@
 **Author: Kalpa Behera**
 
 <!-- Italics -->
-*Date:03/01/2024*
+Date:03/01/2024
 
 <!-- Horizontal Rule -->
 
