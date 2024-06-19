@@ -8,7 +8,7 @@
 **Author: Kalpa Behera**
 
 <!-- Italics -->
-Date:03/01/2024
+*Date:03/01/2024*
 
 <!-- Horizontal Rule -->
 
@@ -20,21 +20,49 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 
 [<img src="https://github.com/Kalpa-Ranjan/LearnJavascript/blob/main/QR-BharatPe.png" width="300" height="200" />]
 ---
+
+
+
 * Learn Basic Javascript
 * Arithmetic Operation Javascript
 ---
 **Java script Roadmap**
 ---
 ```mermaid
-graph LR;
-    A[Variables]
-    B[Data Types]
-    C[Operators]
+flowchart TD;
+    subgraph Variables
+        Let 
+        Var 
+        Const
+    end
+
+    subgraph DataTypes
+        
+        subgraph primitive
+            1.Integer
+            2.Boolean
+            3.BigInteger
+            4.String
+            5.Symbol
+            6.undefined
+        end
+        subgraph NonPrimitive
+            1.Objects
+        end
+
+    end
+    subgraph Operators
+        subgraph Arithmetic
+            1.Addition
+            2.Subtraction
+            3.Multiplication
+            4.Division
+
+        end
+    end
     D[DOM]
 
-    A --> B
-    B --> C
-    C --> D
+
 ```
 
 ---
@@ -51,6 +79,31 @@ graph LR;
    1. [Selecting Element using DOM](#1-selecting-element-using-dom)
       1. [getelementsbyid()](#getelementsbyid)
       2. [getElementsByName](#getElementsByName)
+
+
+```mermaid
+graph LR
+    A[Basics 
+    and 
+    fundamentals]
+    B[Variables 
+    and 
+    Data types]
+    C[Operators 
+    & 
+    Conditions]
+    D[Array]
+    E[Loops]
+    F[Functions]
+    G[Strings]
+    H[DOM]
+    I[Error 
+    Handling]
+    J[Objetcs]
+    K[Events]
+
+    A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K
+```
 <!--
 #### getElementsByTagName()
 #### getElementsByClassName()
