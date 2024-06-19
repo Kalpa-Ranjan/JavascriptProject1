@@ -29,7 +29,7 @@ If you are feeling generous, buy me a coffee - [www.buymeacoffee.com](https://ww
 **Java script Roadmap**
 ---
 ```mermaid
-flowchart TD;
+flowchart TB;
     subgraph Variables
         Let 
         Var 
@@ -52,15 +52,46 @@ flowchart TD;
 
     end
     subgraph Operators
-        subgraph Arithmetic
+        subgraph ArithmeticOperator
             1.Addition
             2.Subtraction
             3.Multiplication
             4.Division
+            5.Exponential
+            6.Modulo
+            7.Incremental
+            8.Decremental
+        end
+        
+        subgraph AssignmentOperator
+            1.Equal
+            2.PlusEqual
+            3.MinusEqual
+            4.MultiplicationEqualTo
+            5.DivisionEqualTo
+            6.ModuloEqual
+            7.ExponentialEqual
+            8.ComparisonOperator
+            9.EqualTo
+            10.EqualValueAndType
+            11.NotEqualValueOrNotEqualType
+            12.GreaterThan
+            13.LessThan
+            14.GreaterThanOrEqualTo
+            15.LessThanOrEqualTo
+            16.TernaryOperator
+    
+        end
 
+        subgraph LogicalOperator
+            LogicalAND
+            LogicalOR
+            LogicalNOT
         end
     end
-    D[DOM]
+    
+    Variables --> DataTypes --> Operators
+
 
 
 ```
