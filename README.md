@@ -39,6 +39,7 @@ flowchart TB;
     subgraph DataTypes
         
         subgraph primitive
+        
             1.Integer
             2.Boolean
             3.BigInteger
@@ -64,6 +65,7 @@ flowchart TB;
         end
         
         subgraph AssignmentOperator
+        direction LR
             1.Equal
             2.PlusEqual
             3.MinusEqual
